@@ -2,6 +2,8 @@
 
 An ortholinear keyboard inspired by comfortable and efficient thumb use and keycap compatibility. Has 87 keys.
 
+![Keyboardlayout](https://raw.githubusercontent.com/GalacticWafer/ComfyThumbs/master/layout.jpg)
+
 Keyboard Maintainer: [GalacticWafer](https://github.com/GalacticWafer)  
 Hardware Supported: ATmega32u4  
 
