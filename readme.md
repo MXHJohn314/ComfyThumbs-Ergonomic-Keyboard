@@ -17,7 +17,7 @@ An ortholinear keyboard inspired by comfortable and efficient thumb use and keyc
 | Keys        |Switch Type| keycap profile   |
 |-------------|-----------|------------------|
 | Space and BackSpace|MX |SA (high profile)|
-/Navigation keys|Kaihl Choc |Kaihl Choc (low profile)|
+|Navigation keys|Kaihl Choc |Kaihl Choc (low profile)|
 |Everything else|MX| MX (regular)
 
 *  The navigation keys are Home, PgUp, PgDn, End, Left, Up, Down, and Right.
