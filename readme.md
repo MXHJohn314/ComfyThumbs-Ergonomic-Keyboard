@@ -4,6 +4,8 @@ An ortholinear keyboard inspired by comfortable and efficient thumb use and keyc
 
 ### The Default Keymap
 <h5><b>Comfy Thumbs Rev 1</b></h5>
+
+
 ![Default Keymap](https://raw.githubusercontent.com/GalacticWafer/ComfyThumbs/master/layout.jpg)
 
 
