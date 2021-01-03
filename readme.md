@@ -9,7 +9,7 @@ An ortholinear keyboard inspired by comfortable and efficient thumb use and keyc
 ![Default Keymap](https://raw.githubusercontent.com/GalacticWafer/ComfyThumbs/master/layout.jpg)
 
 
-<p> Comfy Thumbs is a mostly-ortholinear keyboard, with the intention of maximizing thumb comfort, without sacrificing utility. Thumbs are responsible for pressing four major keys (Space, Backspace, and both Shift keys) as well as six less often-used keys (left and right control, alt and OS keys). The thumbs natrually rest on the Space and Backspace keys, and there is an extra \"palm row\" of keys at the bottom.</p>
+<p> Comfy Thumbs is a mostly-ortholinear keyboard, with the intention of maximizing thumb comfort, without sacrificing utility. Thumbs are responsible for pressing four major keys (Space, Backspace, and both Shift keys) as well as six less often-used keys (left and right control, alt and OS keys). The thumbs natrually rest on the Space and Backspace keys, and there is an extra "palm row" of keys at the bottom.</p>
 
 <p> This keyboard takes advantage of different keycap and switch height to ensure that the shift keys do not encounter interference from accidental thumb presses of nearby keys. This also helps the user know where their hands are without having to look at the keyboard. Here is the breakdown:
 </p>
