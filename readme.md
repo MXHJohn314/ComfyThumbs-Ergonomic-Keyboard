@@ -19,7 +19,7 @@ This is the most keycap-compatible, split, ortholinear, tenkey-less keyboard. Sp
 
 ### Use your thumbs without hurting them
 
-Inspired by bad thumb cluster designs of other split keyboards, The ComfyThumbs board maximizes thumb use and comfort simultaneously. The thumbs naturally rests on either Space or Backspace, with shift, Ctrl, Alt and OS keys all within 1u radius of resting position. Note that there are two thumb rows, and the rows with Space/Backspace have a higher profile with the help of stem raisers. Using SA keycaps for this row is another option to get this profile difference, but we like keycap compatibility :)
+Inspired by bad thumb cluster designs of other split keyboards, The ComfyThumbs board maximizes thumb use and comfort simultaneously. The thumbs naturally rest on either Space or Backspace, with shift, Ctrl, Alt and OS keys all within 1u radius of resting position. Note that there are two thumb rows, and the rows with Space/Backspace have a higher profile with the help of stem raisers. Using SA keycaps for this row is another option to get this profile difference, but we like keycap compatibility :)
 
 
 ### Still want layers?
