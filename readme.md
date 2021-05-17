@@ -1,4 +1,4 @@
-# Comfy Thumbs
+# ComfyThumbs
 
 An ortholinear keyboard inspired by comfortable and efficient thumb use and keycap compatibility. Has either 90 keys, or 76 without the function row.
 
