@@ -25,7 +25,7 @@ This is the most keycap-compatible, split, ortholinear, tenkey-less keyboard. Sp
 |Manuform/Dactyl-Manuform|6|3.5u
 |Maltron/Dacyl/Kenesis/Ergodox|6-8|4.5u
 
-Unlike other large thumb cluster designs that waste valuable space by pushing the cluster away from resting thumb position or building the cluster on a curve, all thumb keys (colored grey) are within 1u radius of resting position. The thumbs naturally rest on either Space or Backspace, with all modifiers nearby. There the thumb clusters cover two rows. `Space`, `Backspace`, and both `Shift` keys have a higher profile on the upper thumb row. With the help of stem raisers helps to distinguish thumb location without looking. Using SA keycaps for these 4 keys is another option to get the profile difference, but we like keycap compatibility :grinning:
+Unlike other large thumb cluster designs that waste valuable space by pushing the cluster away from resting thumb position or building the cluster on a curve, all thumb keys (colored grey) are within 1u radius of resting position. The thumbs naturally rest on either Space or Backspace, with all modifiers nearby. The thumb clusters cover two rows. `Space`, `Backspace`, and both `Shift` keys have a higher profile on the upper thumb row, and use stem raisers to distinguish thumb location without looking. Using SA keycaps for these 4 keys is another option to get the profile difference, but we like keycap compatibility :grinning:
 
 
 ### Comfy Thumbs = Comfy Pinkies
