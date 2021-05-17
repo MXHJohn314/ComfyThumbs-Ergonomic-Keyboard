@@ -13,7 +13,7 @@ An ortholinear keyboard inspired by comfortable and efficient thumb use and keyc
 
 ### 97.98% Keycap Compatibility
 
-This is the most keycap-compatible, split, ortholinear, tenkey-less keyboard. Space and Backspace are the only keys that are not traditionally-sized. That means you won't need to buy/use different keycaps for `Right Shift`, `Left Shift`, `Enter`, `Tab`, `\ `, Command, `Ctrl`, `Alt`, `OS`, and `Application` keys.
+This is the most keycap-compatible, split, ortholinear, tenkey-less keyboard. Space and Backspace are the only keys that are not traditionally-sized. That means you won't need to buy/use different keycaps for `Right Shift`, `Left Shift`, `Enter`, `Tab`, `\ `, `Command`, `Ctrl`, `Alt`, `OS`, and `Application` keys.
 
 <p>
 
@@ -25,7 +25,7 @@ This is the most keycap-compatible, split, ortholinear, tenkey-less keyboard. Sp
 |Manuform/Dactyl-Manuform|6|3.5u
 |Maltron/Dacyl/Kenesis/Ergodox|6-8|4.5u
 
-Unlike other large thumb cluster designs that waste valuable space by pushing the cluster away from resting thumb position or building the cluster on a convex plane, all thumb keys are within 1u radius of resting position. The thumbs naturally rest on either Space or Backspace, with Shift, `Ctrl`, `Alt` and `OS` nearby. There are two thumb rows; `Space`, `Backspace`, and both `Shifts` have a higher profile on the upper thumb row, with the help of stem raisers to distinguish thumb location by feel. Using SA keycaps for these 4 keys is another option to get the profile difference, but we like keycap compatibility :)
+Unlike other large thumb cluster designs that waste valuable space by pushing the cluster away from resting thumb position or building the cluster on a convex plane, all thumb keys are within 1u radius of resting position. The thumbs naturally rest on either Space or Backspace, with Shift, `Ctrl`, `Alt` and `OS` nearby. There are two thumb rows; `Space`, `Backspace`, and both `Shift` keys have a higher profile on the upper thumb row, with the help of stem raisers to distinguish thumb location by feel. Using SA keycaps for these 4 keys is another option to get the profile difference, but we like keycap compatibility :grinning:
 
 
 ### Comfy Thumbs = Comfy Pinkies
