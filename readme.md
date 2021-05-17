@@ -13,17 +13,26 @@ An ortholinear keyboard inspired by comfortable and efficient thumb use and keyc
 
 ### 97.98% Keycap Compatibility
 
-This is the most keycap-compatible, split, ortholinear, tenkey-less keyboard. Space and Backspace are the only keys that are not traditionally-sized. That means you won't need to buy/use different keycaps for Left  & Right Shift, Enter, Tab, Backslash, Command, Ctrl, Alt, OS, and Application keys.
+This is the most keycap-compatible, split, ortholinear, tenkey-less keyboard. Space and Backspace are the only keys that are not traditionally-sized. That means you won't need to buy/use different keycaps for `Right Shift`, `Left Shift`, `Enter`, `Tab`, `\ `, Command, `Ctrl`, `Alt`, `OS`, and `Application` keys.
 
 <p>
 
 ### Use your thumbs without hurting them
 
-Intended to fix bad thumb cluster designs of other split keyboards, The ComfyThumbs board maximizes thumb use and comfort simultaneously. The thumbs naturally rest on either Space or Backspace, with Shift, Ctrl, Alt and OS keys all within 1u radius of resting position. Note that there are two thumb rows. Space, Backspace, and both Shifts have a higher profile with the help of stem raisers to distinguish thumb location by feel. Using SA keycaps for these 4 keys is another option to get the profile difference, but we like keycap compatibility :)
+|Thumb Cluster Style|# of keys|Avg. reach from Home Position|
+|---|---|---|
+|ComfyThumbs|5|1u
+|Manuform/Dactyl-Manuform|6|3.5u
+|Maltron/Dacyl/Kenesis/Ergodox|6-8|4.5u
 
+Unlike other large thumb cluster designs that waste valuable space by pushing the cluster away from resting thumb position or building the cluster on a convex plane, all thumb keys are within 1u radius of resting position. The thumbs naturally rest on either Space or Backspace, with Shift, `Ctrl`, `Alt` and `OS` nearby. There are two thumb rows; `Space`, `Backspace`, and both `Shifts` have a higher profile on the upper thumb row, with the help of stem raisers to distinguish thumb location by feel. Using SA keycaps for these 4 keys is another option to get the profile difference, but we like keycap compatibility :)
+
+
+### Comfy Thumbs = Comfy Pinkies
+Your pinkies have been doing way more wok than they should. That's why modifiers have moved to the thumb cluster. Adding to that, the Index fingers have a new inner column for `Tab`, `\ `, `-`, `=`,  `[` and `]`.
 
 ### Still want layers?
-The bottom left and right Fn keys can be used to access any QMK keyboard layers desired by using the pinky side of the palm to hold down the key (palming).
+The bottom left and right Fn keys can be used to access QMK keyboard layers. The NumLock key can be used to turn on a tenkey layer. In the end, this is QMK - just explore and decide what you like!
 </p>
 
 
