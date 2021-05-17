@@ -9,9 +9,16 @@ An ortholinear keyboard inspired by comfortable and efficient thumb use and keyc
 [Check out the Gist on Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/36e706f383088aca6e862086f8b5e326)
 ![Default Keymap](https://raw.githubusercontent.com/GalacticWafer/ComfyThumbs/master/layout.jpg)
 
-<p> Comfy Thumbs is a mostly-ortholinear keyboard, with the intention of maximizing thumb comfort, without sacrificing utility. Thumbs are responsible for pressing four major keys (Space, Backspace, and both Shift keys) as well as six less often-used keys (left and right control, alt and OS keys). The thumbs natrually rest on the Space and Backspace keys, and there is an extra "palm row" of keys at the bottom.</p>
+<p> Comfy Thumbs is a mostly-ortholinear keyboard, with the intention of maximizing thumb comfort, without sacrificing utility. Thumbs are responsible for pressing four major keys (Space, Backspace, and both Shift keys) as well as six less frequently-used keys (left and right Control, Alt and OS keys). The thumbs naturally rest on the Space and Backspace keys, and there is an extra "palm row" of keys at the bottom.</p>
 
-<p> This keyboard takes advantage of different keycap and switch height to ensure that the shift keys do not encounter interference from accidental thumb presses of nearby keys. This also helps the user know where their hands are without having to look at the keyboard. Here is the breakdown:
+<p>
+Keeping all the keys you're used to, and keycap compatibility is a must. No other split ortholinear layout does this!
+<p> 
+This keyboard is fully compatible with most keycap sets you can buy. 
+
+<p> 
+The top row of thumb keys sits higher than the bottom row with the help of stem raisers.
+
 </p>
 
 | Keys        |Switch Type| keycap profile   |
@@ -20,12 +27,10 @@ An ortholinear keyboard inspired by comfortable and efficient thumb use and keyc
 |Navigation keys|Kaihl Choc |Kaihl Choc (low profile)|
 |Everything else|MX| MX (regular)
 
-*  The navigation keys are Home, PgUp, PgDn, End, Left, Up, Down, and Right.
+<p>
+The bottom left and right Fn keys can be used to access any QMK keyboard layers desired by using the pinky side of the palm to hold down the key (palming).
+</p>
 
-
-<p>The bottom left and right Fn keys can be used to access any other keyboard layers desired by using the pinky side of the palm to hold down the key (palming).</p>
-
-<p>Keycap compatibility is also a major goal of this layout, which is usually difficult to accommodate with orthonlinear layouts. Here, only the space and backspace keys need to be a different size. The arrows represent which way the switches should face for backlight compatibility.</p>
 
 
 Keyboard Maintainer: [GalacticWafer](https://github.com/GalacticWafer)  
