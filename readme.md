@@ -1,4 +1,4 @@
-# ComfyThumbs
+# Comfy Thumbs
 
 An ortholinear keyboard inspired by comfortable and efficient thumb use and keycap compatibility. Has either 90 keys, or 76 without the function row.
 
@@ -11,15 +11,13 @@ An ortholinear keyboard inspired by comfortable and efficient thumb use and keyc
 
 <p>
 
-### This keyboard is an ENDGAME KILLER. is the most keycap-compatible the following traits:
-- TKL (Tetenkey-less)
+### This keyboard is an ENDGAME KILLER. 
 - Split
-- Wireless
+- TKL (Tetenkey-less), wifi-compattible 
 - Ortholinear
 - Coming soon: RGB
 <br/>
 <br/>
-Space and Backspace are the only keys that are not traditionally-sized. That means you won't need to buy/use different keycaps for `Right Shift`, `Left Shift`, `Enter`, `Tab`, `\ `, Command, `Ctrl`, `Alt`, `OS`, and `Application` keys.
 
 <p>
 
