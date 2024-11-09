@@ -13,7 +13,10 @@ An ortholinear keyboard inspired by comfortable and efficient thumb use and keyc
 
 ### 97.98% Keycap Compatibility
 
-This is the most keycap-compatible, split, ortholinear, tenkey-less keyboard. Space and Backspace are the only keys that are not traditionally-sized. That means you won't need to buy/use different keycaps for `Right Shift`, `Left Shift`, `Enter`, `Tab`, `\ `, Command, `Ctrl`, `Alt`, `OS`, and `Application` keys.
+This is the most keycap-compatible, split, ortholinear, with all they keys you recognize from a tenkey-less keyboard.
+<br/>
+<br/>
+Space and Backspace are the only keys that are not traditionally-sized. That means you won't need to buy/use different keycaps for `Right Shift`, `Left Shift`, `Enter`, `Tab`, `\ `, Command, `Ctrl`, `Alt`, `OS`, and `Application` keys.
 
 <p>
 
