@@ -8,11 +8,6 @@
 - Ortholinear (Grid-style arrangement for the alpha keys)
 - Coming soon: RGB (Per-key, shine-through)
 <br/>
- 
-### Comfortable and efficient thumb use
-Inspired by:
-- Keycap compatibility
-- Break-away function row: either 90 keys, or 76 without
 
 ### The Default Keymap
 <h5><b>Comfy Thumbs Rev 1</b></h5>
