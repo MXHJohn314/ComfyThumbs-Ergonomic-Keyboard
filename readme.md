@@ -1,6 +1,18 @@
 # Comfy Thumbs
 
-An ortholinear keyboard inspired by comfortable and efficient thumb use and keycap compatibility. Has either 90 keys, or 76 without the function row.
+## Comfy Thumbs is an Ergonomic keyboard that is:
+
+- Split
+- TKL (90 keys total OR 76 keys after if you remove the break-away Function-key row)
+- Wifi-compatible (charges each half independently with USB-C)
+- Ortholinear (Grid-style arrangement for the alpha keys)
+- Coming soon: RGB
+<br/>
+ 
+### Comfortable and efficient thumb use
+Inspired by:
+- Keycap compatibility
+- Break-away function row: either 90 keys, or 76 without
 
 ### The Default Keymap
 <h5><b>Comfy Thumbs Rev 1</b></h5>
@@ -10,13 +22,6 @@ An ortholinear keyboard inspired by comfortable and efficient thumb use and keyc
 ![Default Keymap](https://raw.githubusercontent.com/GalacticWafer/ComfyThumbs/master/layout.jpg)
 
 <p>
-
-### This keyboard is an ENDGAME KILLER. 
-- Split
-- TKL (Tetenkey-less), wifi-compattible 
-- Ortholinear
-- Coming soon: RGB
-<br/>
 <br/>
 
 <p>
