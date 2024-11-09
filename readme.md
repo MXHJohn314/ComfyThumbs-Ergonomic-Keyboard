@@ -6,7 +6,7 @@
 - TKL (90 keys total OR 76 keys if you remove the break-away Function-key row)
 - Wifi-compatible (charges each half independently with USB-C)
 - Ortholinear (Grid-style arrangement for the alpha keys)
-- Coming soon: RGB
+- Coming soon: RGB (Per-key, shine-through)
 <br/>
  
 ### Comfortable and efficient thumb use
