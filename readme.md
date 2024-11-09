@@ -30,7 +30,7 @@
 |Maltron/Dactyl/Kenesis/Ergodox|6-8|4.5u
 |Moonlander|4|3u
 
-Unlike other large thumb cluster designs that waste valuable space by pushing the cluster away from resting thumb position or building the cluster on a convex plane, all thumb keys are within 1u radius of resting position. The thumbs naturally rest on either Space or Backspace, with Shift, `Ctrl`, `Alt` and `OS` nearby. There are two thumb rows; `Space`, `Backspace`, and `Shift` are connected to main PCB of each half, but the thumb and arrow clusters are connected by a wire from breakaway clusters. The breakaway clusters have a profile roughly 2mm lower than the Main PCBs.
+Comfy Thumbs is special because the thumb cluster has the maximun number of keys within 1U from resting thumb position. The thumbs naturally rest on either Space or Backspace, with Shift, `Ctrl`, `Alt` and `OS` nearby. There are two thumb rows; `Space`, `Backspace`, and `Shift` are connected to main PCB of each half, but the thumb and arrow clusters are connected by a wire from breakaway clusters. The breakaway clusters have a profile roughly 2mm lower than the Main PCBs.
 
 ### Still want layers?
 The bottom left and right Fn keys can be used to access QMK keyboard layers. The NumLock key can be used to turn on a tenkey layer on both halves.
