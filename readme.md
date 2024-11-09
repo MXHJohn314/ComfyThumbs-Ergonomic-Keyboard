@@ -11,9 +11,12 @@ An ortholinear keyboard inspired by comfortable and efficient thumb use and keyc
 
 <p>
 
-### 97.98% Keycap Compatibility
-
-This is the most keycap-compatible, split, ortholinear, with all they keys you recognize from a tenkey-less keyboard.
+### This keyboard is an ENDGAME KILLER. is the most keycap-compatible the following traits:
+- TKL (Tetenkey-less)
+- Split
+- Wireless
+- Ortholinear
+- Coming soon: RGB
 <br/>
 <br/>
 Space and Backspace are the only keys that are not traditionally-sized. That means you won't need to buy/use different keycaps for `Right Shift`, `Left Shift`, `Enter`, `Tab`, `\ `, Command, `Ctrl`, `Alt`, `OS`, and `Application` keys.
@@ -28,11 +31,11 @@ Space and Backspace are the only keys that are not traditionally-sized. That mea
 |Manuform/Dactyl-Manuform|6|3.5u
 |Maltron/Dacyl/Kenesis/Ergodox|6-8|4.5u
 
-Unlike other large thumb cluster designs that waste valuable space by pushing the cluster away from resting thumb position or building the cluster on a convex plane, all thumb keys are within 1u radius of resting position. The thumbs naturally rest on either Space or Backspace, with Shift, `Ctrl`, `Alt` and `OS` nearby. There are two thumb rows; `Space`, `Backspace`, and both `Shifts` have a higher profile on the upper thumb row, with the help of stem raisers to distinguish thumb location by feel. Using SA keycaps for these 4 keys is another option to get the profile difference, but we like keycap compatibility :)
+Unlike other large thumb cluster designs that waste valuable space by pushing the cluster away from resting thumb position or building the cluster on a convex plane, all thumb keys are within 1u radius of resting position. The thumbs naturally rest on either Space or Backspace, with Shift, `Ctrl`, `Alt` and `OS` nearby. There are two thumb rows; `Space`, `Backspace`, and both `Shift` are connected to main PCB of each half, but the thumb and arrow clusters are connected as breakaway clusters, which will have a profile roughly 2mm lower that theh Main PCB. 
 
 
 ### Comfy Thumbs = Comfy Pinkies
-Your pinkies have been doing way more wok than they should. That's why modifiers have moved to the thumb cluster. Adding to that, the Index fingers have a new inner column for `Tab`, `\ `, `-`, `=`,  `[` and `]`.
+Your pinkies have been doing way more work than they should. That's why modifiers have moved to the thumb cluster. Adding to that, the Index fingers have a new inner column for `Tab`, `\ `, `-`, `=`,  `[` and `]`.
 
 ### Still want layers?
 The bottom left and right Fn keys can be used to access QMK keyboard layers. The NumLock key can be used to turn on a tenkey layer. In the end, this is QMK - just explore and decide what you like!
