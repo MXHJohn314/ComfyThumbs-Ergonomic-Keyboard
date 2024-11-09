@@ -32,8 +32,10 @@
 
 Comfy Thumbs is special because the thumb cluster has the maximun number of keys within 1U from resting thumb position. The thumbs naturally rest on either Space or Backspace, with Shift, `Ctrl`, `Alt` and `OS` nearby. There are two thumb rows; `Space`, `Backspace`, and `Shift` are connected to main PCB of each half, but the thumb and arrow clusters are connected by a wire from breakaway clusters. The breakaway clusters have a profile roughly 2mm lower than the Main PCBs.
 
-### Still want layers?
-The bottom left and right Fn keys can be used to access QMK keyboard layers. The NumLock key can be used to turn on a tenkey layer on both halves.
+### Dual NUMPAD
+The NumLock key can be used to turn on a tenkey layer on both halves simultaneously.
+
+The bottom left and right Fn keys are meant to be programmed to customized QMK layers. 
 </p>
 
 Keyboard Maintainer: [GalacticWafer](https://github.com/GalacticWafer)  
